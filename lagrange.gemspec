@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Abhinav Srivastava"]
   spec.email         = ["sriabhinav29@gmail.com"]
 
-  spec.summary       = "Stay informed with The War Journel — your source for timely updates, analysis, and insights on Middle East conflicts, geopolitics, and war developments."
+  spec.summary       = "Real-Time War Updates & Middle East Insights"
   spec.homepage      = "https://github.com/abhinav-bennett/the-war-journal"
   spec.license       = "MIT"
 
