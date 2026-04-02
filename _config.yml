@@ -23,6 +23,7 @@ plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 title: "The War Journal"
 description: "Stay informed with The War Journel — your source for timely updates, analysis, and insights on Middle East conflicts, geopolitics, and war developments."
 author: "Abhinav Srivastava"
+subtitle: "Real-Time War Updates & Middle East Insights"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
