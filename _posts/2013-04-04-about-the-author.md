@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Abhinav Srivastava"
 categories: journal
-tags: [documentation,sample]
+tags: [documentation, sample]
 image: cutting.jpg
 ---
 
